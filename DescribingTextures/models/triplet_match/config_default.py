@@ -15,7 +15,7 @@ C.LANG_INPUT = 'description'  # description /phrase
 C.MODEL = CN()
 C.MODEL.VEC_DIM = 256
 C.MODEL.IMG_FEATS = (2, 4)
-C.MODEL.LANG_ENCODER = 'mean'
+C.MODEL.LANG_ENCODER = 'bert' # bert / mean
 C.MODEL.DISTANCE = 'l2_s'  # l2, cos
 
 # config for loss
