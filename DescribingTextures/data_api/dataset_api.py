@@ -7,7 +7,7 @@ from PIL import Image
 from torch.utils.data import Dataset
 
 data_path = 'data_api/data'
-img_path = 'data_api/data/images'
+img_path = '/content/DomainToText_AMLProject/PACS/kfold'
 
 
 class TextureDescriptionData:
@@ -73,7 +73,7 @@ class TextureDescriptionData:
         return img_data
 
     def load_img(self, img_name):
-        img_fpath = os.path.join(self.data_path, 'images', img_name)
+        img_fpath = os.path.join(img_path, img_name)
         img = Image.open(img_fpath).convert('RGB')
         return img
 
