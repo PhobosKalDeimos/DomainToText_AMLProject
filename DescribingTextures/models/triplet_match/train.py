@@ -3,7 +3,7 @@ import os
 import random
 import time
 import numpy as np
-# from tqdm import tqdm
+from tqdm import tqdm
 from distutils.dir_util import copy_tree
 
 import torch
