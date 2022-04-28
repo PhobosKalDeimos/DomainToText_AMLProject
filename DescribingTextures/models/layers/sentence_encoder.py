@@ -150,7 +150,7 @@ class BertEncoder(nn.Module):
             segments_ids = [1] * len(indexed_tokens)
             tokens_tensor = torch.tensor([indexed_tokens]).to(device)
             segments_tensors = torch.tensor([segments_ids]).to(device)
-            last_hidden_states, _ = self.model(tokens_tensor, segments_tensors)
+            last_hidden_states = self.model(tokens_tensor, segments_tensors).last_hidden_state
             sentence_embedding = torch.mean(last_hidden_states[0], dim=0)
             # del tokens_tensor, segments_tensors, last_hidden_states
             embeddings.append(sentence_embedding)
