@@ -1,0 +1,1203 @@
+sketch_labels
+
+1
+Title: sketch/giraffe/n02439033_14846-6.png
+Level of details: low-level
+Edges: solid yet trembling bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+2
+Title: sketch/person/12153.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+3
+Title: sketch/elephant/5970.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+4
+Title: sketch/giraffe/n02439033_14121-3.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+5
+Title: sketch/giraffe/7400.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+6
+Title: sketch/giraffe/n02439033_14497-4.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+7
+Title: sketch/elephant/n02503517_6479-8.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+8
+Title: sketch/guitar/n03467517_17233-4.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: yes, realistic
+
+9
+Title: sketch/dog/n02106662_15858-2.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+10
+Title: sketch/house/8845.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+11
+Title: sketch/horse/n02374451_2825-8.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+12
+Title: sketch/horse/n02374451_10809-1.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+13
+Title: sketch/guitar/n02676566_6150-2.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+14
+Title: sketch/horse/n02374451_557-1.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: yes, realistic
+
+15
+Title: sketch/elephant/n02503517_2993-5.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+16
+Title: sketch/elephant/n02503517_10528-3.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+17
+Title: sketch/horse/n02374451_10669-8.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+18
+Title: sketch/guitar/n02676566_330-6.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+19
+Title: sketch/horse/n02374451_8065-2.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+20
+Title: sketch/giraffe/n02439033_14148-7.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+21
+Title: sketch/horse/n02374451_9225-2.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+22
+Title: sketch/dog/n02103406_6274-5.png
+Level of details: mid-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+23
+Title: sketch/dog/n02106662_1874-5.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+24
+Title: sketch/elephant/n02503517_10275-1.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: yes, realistic
+
+25
+Title: sketch/dog/n02103406_7521-8.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+26
+Title: sketch/dog/5345.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+27
+Title: sketch/elephant/5981.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+28
+Title: sketch/dog/5288.png
+Level of details: low-level
+Edges: solid black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+29
+Title: sketch/giraffe/n02439033_1327-3.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+30
+Title: sketch/horse/n02374451_18192-6.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+31
+Title: sketch/giraffe/n02439033_11599-5.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+32
+Title: sketch/horse/n02374451_12847-6.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: yes, realistic
+
+33
+Title: sketch/horse/n02374451_11479-5.png
+Level of details: low-level
+Edges: solid bold black lines
+Color saturation: low
+Color shades: no, black and white
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+34
+Title: sketch/horse/n02374451_12328-7.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+35
+Title: sketch/guitar/n02676566_9451-3.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic 
+
+36
+Title: sketch/elephant/5997.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+37
+Title: sketch/giraffe/n02439033_9604-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic 
+
+38
+Title: sketch/guitar/n02676566_6704-5.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+39
+Title: sketch/horse/n02374451_4963-6.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+40
+Title: sketch/giraffe/n02439033_12680-2.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+41
+Title: sketch/house/8805.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+42
+Title: sketch/guitar/n03272010_7390-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+43
+Title: sketch/horse/n02374451_12128-7.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+44
+Title: sketch/horse/n02374451_12128-6.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+45
+Title: sketch/dog/n02106662_928-8.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+46
+Title: sketch/house/8835.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+47
+Title: sketch/giraffe/7370.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+48
+Title: sketch/giraffe/n02439033_10616-3.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+49
+Title: sketch/dog/n02109525_3202-3.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+50
+Title: sketch/elephant/n02503517_8292-3.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+51
+Title: sketch/giraffe/n02439033_8875-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+52
+Title: sketch/giraffe/7440.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+53
+Title: sketch/giraffe/n02439033_12413-7.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+54
+Title: sketch/horse/n02374451_12418-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+55
+Title: sketch/horse/n02374451_4963-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+56
+Title: sketch/giraffe/7407.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+57
+Title: sketch/dog/n02103406_8280-2.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+58
+Title: sketch/horse/n02374451_4963-5.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic 
+
+59
+Title: sketch/giraffe/n02439033_14148-8.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+60
+Title: sketch/horse/n02374451_11492-3.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+61
+Title: sketch/guitar/n03272010_6737-6.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+62
+Title: sketch/horse/n02374451_17474-5.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+63
+Title: sketch/elephant/n02503517_8265-5.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+64
+Title: sketch/horse/n02374451_15669-4.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+65
+Title: sketch/horse/n02374451_15669-6.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+66
+Title: sketch/elephant/n02503517_3108-8.png
+Level of details: low-level
+Edges: solid yet trembling black lines
+Color saturation: low
+Color shades: no
+Background: white
+Single instance: yes
+Text: no
+Texture: yes, sketch
+Perspective: no, unrealistic
+
+67
+Title: sketch/guitar/7634.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+68
+Title: sketch/house/8843.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+69
+Title: sketch/elephant/n02503517_4687-4.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+70
+Title: sketch/horse/n02374451_10809-7.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+71
+Title: sketch/dog/n02103406_7708-9.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+72
+Title: sketch/elephant/n02503517_6032-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+73
+Title: sketch/elephant/5963.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+74
+Title: sketch/giraffe/n02439033_11715-4.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+75
+Title: sketch/elephant/n02503517_10259-5.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+76
+Title: sketch/person/12120.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+77
+Title: sketch/person/12141.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+78
+Title: sketch/guitar/7605.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+79
+Title: sketch/giraffe/n02439033_10616-4.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+80
+Title: sketch/person/12225.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+81
+Title: sketch/horse/n02374451_16948-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+82
+Title: sketch/dog/n02106662_7885-3.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+83
+Title: sketch/dog/n02109525_7874-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+84
+Title: sketch/giraffe/n02439033_10811-3.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+85
+Title: sketch/elephant/n02503517_7173-3.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+86
+Title: sketch/giraffe/n02439033_2486-4.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+87
+Title: sketch/guitar/n02676566_659-5.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+88
+Title: sketch/horse/n02374451_54-9.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+89
+Title: sketch/giraffe/n02439033_9472-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+90
+Title: sketch/dog/n02103406_3743-10.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+91
+Title: sketch/horse/n02374451_4818-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+92
+Title: sketch/elephant/n02503517_5905-4.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+93
+Title: sketch/elephant/n02503517_7592-7.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+94
+Title: sketch/dog/n02103406_5505-1.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+95
+Title: sketch/horse/n02374451_11492-6.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+96
+Title: sketch/horse/n02374451_779-3.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+97
+Title: sketch/person/12130.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+98
+Title: sketch/guitar/n02676566_7770-2.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+99
+Title: sketch/dog/n02103406_3743-9.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+100
+Title: sketch/elephant/n02503517_9241-5.png
+Level of details: low
+Edges: precise lines
+Color saturation: low
+Color shades: no, black line
+Background: single white color
+Single instance: yes
+Text: no
+Texture: no
+Perspective: no, unrealistic
+
+
